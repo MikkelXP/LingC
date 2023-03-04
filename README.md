@@ -1,2 +1,1 @@
-# LingC
-repositorios Text
+
